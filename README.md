@@ -1,2 +1,2 @@
-# Project_STREE
-This project was created during Smart India Hackathon 2018
+# Project-STREE
+A project implemented during Smart India Hackathon 2018.
